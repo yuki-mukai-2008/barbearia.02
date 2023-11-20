@@ -5,7 +5,7 @@ body{
     width:100%
 }
 .pincipal{
-    background-color: #cccccc
+    background-color: #cccccc;
     padding: 30px;
 }
 .titulo-principal{
@@ -30,12 +30,14 @@ em strong{
     background-color: blueviolet;
     padding: 20px;
 }
+
 ul{
-display: inline-block;
-vertical-align: top;
-width:20%
-margin-right:15%
+   display: inline-block;
+   vertical-align: top;
+   width:20%;
+   margin-right:15%;
 }
+
 .imagembeneficios{
     width:50%
 }
